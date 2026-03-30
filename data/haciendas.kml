@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="haciendas" id="haciendas">
+	<SimpleField name="qc_id" type="int"></SimpleField>
+	<SimpleField name="fcode" type="string"></SimpleField>
+	<SimpleField name="descripcio" type="string"></SimpleField>
+	<SimpleField name="nam" type="string"></SimpleField>
+	<SimpleField name="txt" type="string"></SimpleField>
+</Schema>
+<Folder><name>haciendas</name>
+  <Placemark id="haciendas.1">
+	<ExtendedData><SchemaData schemaUrl="#haciendas">
+		<SimpleData name="qc_id">0</SimpleData>
+		<SimpleData name="fcode">AJ060</SimpleData>
+		<SimpleData name="descripcio">LUGAR QUE PUEDE SER DE CUALQUIER TAMANO DESDE UNAS POCAS HECTAREAS A MILES DE HECTAREAS, Y PUEDE ESTAR ESPECIALIZADA EN UNA PARTICULAR FORMA DE PRODUCCION DE COMIDA Y/O GANADO</SimpleData>
+		<SimpleData name="nam">Hacienda Casa Vinces</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.5751861880285,-1.30869371548065</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="haciendas.2">
+	<ExtendedData><SchemaData schemaUrl="#haciendas">
+		<SimpleData name="qc_id">1</SimpleData>
+		<SimpleData name="fcode">AJ060</SimpleData>
+		<SimpleData name="descripcio">LUGAR QUE PUEDE SER DE CUALQUIER TAMANO DESDE UNAS POCAS HECTAREAS A MILES DE HECTAREAS, Y PUEDE ESTAR ESPECIALIZADA EN UNA PARTICULAR FORMA DE PRODUCCION DE COMIDA Y/O GANADO</SimpleData>
+		<SimpleData name="nam">Hacienda Palmira</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.5497619279107,-1.30090151446046</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="haciendas.3">
+	<ExtendedData><SchemaData schemaUrl="#haciendas">
+		<SimpleData name="qc_id">2</SimpleData>
+		<SimpleData name="fcode">AJ060</SimpleData>
+		<SimpleData name="descripcio">LUGAR QUE PUEDE SER DE CUALQUIER TAMANO DESDE UNAS POCAS HECTAREAS A MILES DE HECTAREAS, Y PUEDE ESTAR ESPECIALIZADA EN UNA PARTICULAR FORMA DE PRODUCCION DE COMIDA Y/O GANADO</SimpleData>
+		<SimpleData name="nam">Hacienda El Saurce</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.53919519103,-1.29448228894002</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="haciendas.4">
+	<ExtendedData><SchemaData schemaUrl="#haciendas">
+		<SimpleData name="qc_id">3</SimpleData>
+		<SimpleData name="fcode">AJ060</SimpleData>
+		<SimpleData name="descripcio">LUGAR QUE PUEDE SER DE CUALQUIER TAMANO DESDE UNAS POCAS HECTAREAS A MILES DE HECTAREAS, Y PUEDE ESTAR ESPECIALIZADA EN UNA PARTICULAR FORMA DE PRODUCCION DE COMIDA Y/O GANADO</SimpleData>
+		<SimpleData name="nam">Hacienda Moquique</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.5426271343974,-1.29395658187063</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="haciendas.5">
+	<ExtendedData><SchemaData schemaUrl="#haciendas">
+		<SimpleData name="qc_id">4</SimpleData>
+		<SimpleData name="fcode">AJ060</SimpleData>
+		<SimpleData name="descripcio">LUGAR QUE PUEDE SER DE CUALQUIER TAMANO DESDE UNAS POCAS HECTAREAS A MILES DE HECTAREAS, Y PUEDE ESTAR ESPECIALIZADA EN UNA PARTICULAR FORMA DE PRODUCCION DE COMIDA Y/O GANADO</SimpleData>
+		<SimpleData name="nam">Hacienda El Carmen</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.5428667966378,-1.27283821984006</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="haciendas.6">
+	<ExtendedData><SchemaData schemaUrl="#haciendas">
+		<SimpleData name="qc_id">5</SimpleData>
+		<SimpleData name="fcode">AJ060</SimpleData>
+		<SimpleData name="descripcio">LUGAR QUE PUEDE SER DE CUALQUIER TAMANO DESDE UNAS POCAS HECTAREAS A MILES DE HECTAREAS, Y PUEDE ESTAR ESPECIALIZADA EN UNA PARTICULAR FORMA DE PRODUCCION DE COMIDA Y/O GANADO</SimpleData>
+		<SimpleData name="nam">Hacienda Guayas</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.5149252387421,-1.26218618237024</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="haciendas.7">
+	<ExtendedData><SchemaData schemaUrl="#haciendas">
+		<SimpleData name="qc_id">6</SimpleData>
+		<SimpleData name="fcode">AJ060</SimpleData>
+		<SimpleData name="descripcio">LUGAR QUE PUEDE SER DE CUALQUIER TAMANO DESDE UNAS POCAS HECTAREAS A MILES DE HECTAREAS, Y PUEDE ESTAR ESPECIALIZADA EN UNA PARTICULAR FORMA DE PRODUCCION DE COMIDA Y/O GANADO</SimpleData>
+		<SimpleData name="nam">Hacienda Carlos Julio</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.6375852485656,-1.23375166690556</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="haciendas.8">
+	<ExtendedData><SchemaData schemaUrl="#haciendas">
+		<SimpleData name="qc_id">7</SimpleData>
+		<SimpleData name="fcode">AJ060</SimpleData>
+		<SimpleData name="descripcio">LUGAR QUE PUEDE SER DE CUALQUIER TAMANO DESDE UNAS POCAS HECTAREAS A MILES DE HECTAREAS, Y PUEDE ESTAR ESPECIALIZADA EN UNA PARTICULAR FORMA DE PRODUCCION DE COMIDA Y/O GANADO</SimpleData>
+		<SimpleData name="nam">Hacienda La Virgen</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.5113840019838,-1.22903751442145</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="haciendas.9">
+	<ExtendedData><SchemaData schemaUrl="#haciendas">
+		<SimpleData name="qc_id">8</SimpleData>
+		<SimpleData name="fcode">AJ060</SimpleData>
+		<SimpleData name="descripcio">LUGAR QUE PUEDE SER DE CUALQUIER TAMANO DESDE UNAS POCAS HECTAREAS A MILES DE HECTAREAS, Y PUEDE ESTAR ESPECIALIZADA EN UNA PARTICULAR FORMA DE PRODUCCION DE COMIDA Y/O GANADO</SimpleData>
+		<SimpleData name="nam">Hacienda Julisa</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.7442634250412,-1.21918429330222</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="haciendas.10">
+	<ExtendedData><SchemaData schemaUrl="#haciendas">
+		<SimpleData name="qc_id">9</SimpleData>
+		<SimpleData name="fcode">AJ060</SimpleData>
+		<SimpleData name="descripcio">LUGAR QUE PUEDE SER DE CUALQUIER TAMANO DESDE UNAS POCAS HECTAREAS A MILES DE HECTAREAS, Y PUEDE ESTAR ESPECIALIZADA EN UNA PARTICULAR FORMA DE PRODUCCION DE COMIDA Y/O GANADO</SimpleData>
+		<SimpleData name="nam">Hacienda Virginia</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.5072051081295,-1.21337742314292</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="haciendas.11">
+	<ExtendedData><SchemaData schemaUrl="#haciendas">
+		<SimpleData name="qc_id">10</SimpleData>
+		<SimpleData name="fcode">AJ060</SimpleData>
+		<SimpleData name="descripcio">LUGAR QUE PUEDE SER DE CUALQUIER TAMANO DESDE UNAS POCAS HECTAREAS A MILES DE HECTAREAS, Y PUEDE ESTAR ESPECIALIZADA EN UNA PARTICULAR FORMA DE PRODUCCION DE COMIDA Y/O GANADO</SimpleData>
+		<SimpleData name="nam">Hacienda La Mariana</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.5579212449447,-1.21217096214322</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="haciendas.12">
+	<ExtendedData><SchemaData schemaUrl="#haciendas">
+		<SimpleData name="qc_id">11</SimpleData>
+		<SimpleData name="fcode">AJ060</SimpleData>
+		<SimpleData name="descripcio">LUGAR QUE PUEDE SER DE CUALQUIER TAMANO DESDE UNAS POCAS HECTAREAS A MILES DE HECTAREAS, Y PUEDE ESTAR ESPECIALIZADA EN UNA PARTICULAR FORMA DE PRODUCCION DE COMIDA Y/O GANADO</SimpleData>
+		<SimpleData name="nam">Hacienda San Marcos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.6493078967892,-1.20804252973081</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="haciendas.13">
+	<ExtendedData><SchemaData schemaUrl="#haciendas">
+		<SimpleData name="qc_id">12</SimpleData>
+		<SimpleData name="fcode">AJ060</SimpleData>
+		<SimpleData name="descripcio">LUGAR QUE PUEDE SER DE CUALQUIER TAMANO DESDE UNAS POCAS HECTAREAS A MILES DE HECTAREAS, Y PUEDE ESTAR ESPECIALIZADA EN UNA PARTICULAR FORMA DE PRODUCCION DE COMIDA Y/O GANADO</SimpleData>
+		<SimpleData name="nam">Hacienda Victoria</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.5075203240437,-1.19687611856019</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

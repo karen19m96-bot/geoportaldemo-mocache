@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <title>Prueba OpenLayers</title>
+  <link rel="stylesheet" href="https://unpkg.com/ol@9.2.4/ol.css">
+  <script src="https://unpkg.com/ol@9.2.4/dist/ol.js"></script>
+  <style>
+    html, body { margin: 0; padding: 0; }
+    #map { width: 100%; height: 100vh; background: #dbeafe; }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script>
+  const wmsLayer = new ol.layer.Tile({
+    source: new ol.source.TileWMS({
+      url: 'https://wms.prod.qgiscloud.com/KarenAlbacuraCampues/Mapa_Web_QGIS_Cloud?',
+      params: {
+        'LAYERS': 'Haciendas',
+        'STYLES': '',
+        'FORMAT': 'image/png',
+        'TRANSPARENT': true,
+        'VERSION': '1.1.1'
+      }
+    })
+  });
+
+  const map = new ol.Map({
+    target: 'map',
+    layers: [
+      new ol.layer.Tile({
+        source: new ol.source.OSM()
+      }),
+      wmsLayer
+    ],
+    view: new ol.View({
+      center: ol.proj.fromLonLat([-79.62, -1.25]),
+      zoom: 10
+    })
+  });
+</script>
+
+</body>
+</html>
